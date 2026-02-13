@@ -18,7 +18,7 @@
 
 **Why Different:** Complete marketing funnel from one video (not just a summary). Sequential AI pipeline with specialized prompts. Persistent job queue with progress tracking.
 
-**For Recruiters:** Demonstrates multi-step AI orchestration, state management at scale, API integration architecture, and complete product thinking (input → processing → 13 outputs).
+**Technical Showcase:** Demonstrates multi-step AI orchestration, state management at scale, API integration architecture, and complete product thinking (input → processing → 13 outputs).
 
 **For Businesses:** Content creators and marketers turn YouTube content into complete lead generation funnels without writing a single word.
 
@@ -411,9 +411,10 @@ YouTube to Leads AI is part of FutureCrafters' AI productivity tools portfolio.
 
 ---
 
-**For recruiters:** Demonstrates multi-step AI orchestration, state management at scale, multi-API integration, and production-ready workflow execution.
 
 ---
 
 *A FutureCrafters Project • Built by [Irvin Cruz](https://irvincruz.com) ☀️*  
 *Last Updated: February 2026*
+
+
