@@ -12,8 +12,11 @@
 
 ---
 
-![YouTube to Leads AI - Transform any YouTube video into a complete marketing funnel with 13 AI-generated assets](assets/hero-screenshot.png)
-*Paste a YouTube URL → Get 13 complete marketing assets in minutes — Live demo at [youtube-to-leads-ai.bolt.host](https://youtube-to-leads-ai.bolt.host)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IrvinCruzAI/Youtube_Video_to_LeadGen_Marketing_AI_Tool/main/assets/hero-screenshot.png" alt="YouTube to Leads AI Platform" width="100%">
+</p>
+
+<p align="center"><em>Paste a YouTube URL → Get 13 complete marketing assets in minutes — Live demo at <a href="https://youtube-to-leads-ai.bolt.host">youtube-to-leads-ai.bolt.host</a></em></p>
 
 ---
 
