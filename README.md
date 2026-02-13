@@ -12,6 +12,11 @@
 
 ---
 
+![YouTube to Leads AI - Transform any YouTube video into a complete marketing funnel with 13 AI-generated assets](assets/hero-screenshot.png)
+*Paste a YouTube URL → Get 13 complete marketing assets in minutes — Live demo at [youtube-to-leads-ai.bolt.host](https://youtube-to-leads-ai.bolt.host)*
+
+---
+
 ## TL;DR (30-Second Scan)
 
 **What:** Paste a YouTube URL → Get 13 complete marketing assets AI-generated in minutes: lead magnets, landing pages, email sequences, social media content, SEO articles, quizzes, and more.
