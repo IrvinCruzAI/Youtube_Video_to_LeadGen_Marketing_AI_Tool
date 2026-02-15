@@ -8,7 +8,7 @@
 
 **[🚀 Try Live Demo](https://youtube-to-leads-ai.bolt.host)** | **[Technical Highlights](#technical-highlights)** | **[Tech Stack](#tech-stack)** | **[Quick Start](#quick-start)**
 
-![YouTube to Leads AI Screenshot](./assets/screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 **A [FutureCrafters](https://www.futurecrafters.ai) Project** • Built by [Irvin Cruz](https://irvincruz.com)
 
